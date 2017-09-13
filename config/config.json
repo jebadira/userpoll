@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/userPoll/UserPollWebPart.js",
+      "manifest": "./src/webparts/userPoll/UserPollWebPart.manifest.json",
+      "outputPath": "./dist/user-poll.bundle.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "userPollStrings": "webparts/userPoll/loc/{locale}.js"
+  }
+}

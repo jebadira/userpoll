@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "user-poll-web-part-client-side-solution",
+    "id": "464f3103-8906-47dd-bfb3-39f2d6fc601e",
+    "version": "1.0.0.2"
+  },
+  "paths": {
+    "zippedPackage": "solution/user-poll-web-part.sppkg"
+  }
+}

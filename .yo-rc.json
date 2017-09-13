@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "libraryName": "user-poll-web-part",
+    "framework": "react",
+    "version": "1.0.0",
+    "libraryId": "464f3103-8906-47dd-bfb3-39f2d6fc601e"
+  }
+}

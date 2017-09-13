@@ -1,0 +1,22 @@
+{
+  "$schema": "../../../node_modules/@microsoft/sp-module-interfaces/lib/manifestSchemas/jsonSchemas/clientSideComponentManifestSchema.json",
+
+  "id": "f7aa117d-35d4-4661-b95e-08375fe760e5",
+  "alias": "UserPollWebPart",
+  "componentType": "WebPart",
+  "version": "0.0.1",
+  "manifestVersion": 2,
+
+  "preconfiguredEntries": [{
+    "groupId": "f7aa117d-35d4-4661-b95e-08375fe760e5",
+    "group": { "default": "Under Development" },
+    "title": { "default": "UserPoll" },
+    "description": { "default": "Web part used to create polls for users and record their answers. Mainly for feedback, but will be dynamic for everything." },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "description": "Web Part used to conduct polls.",
+      "library" : "User Polls",
+      "poll" : "1"
+    }
+  }]
+}
